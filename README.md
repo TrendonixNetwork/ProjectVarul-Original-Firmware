@@ -1,1 +1,1 @@
-# ProjectVarul-OriginaFirmwarel
+# ProjectVarul-OriginaFirmware
